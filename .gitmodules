@@ -1,0 +1,3 @@
+[submodule "libs/spr-microfront"]
+	path = libs/spr-microfront
+	url = https://github.com/sapersaper/sprlab-microfront.git
